@@ -1,0 +1,12 @@
+<rental.hqprjt.com.carrental.widget.LRImgTextView
+        android:id="@+id/cusText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tvRegist"
+        android:layout_margin="8dp"
+        android:background="@drawable/loginframe"
+        app:cusHint="╡Б йт"
+        app:cusInputType="phone"
+        app:cusTextSize="@dimen/editTextSize"
+        app:leftImg="@drawable/login_code"
+        app:rightImg="@drawable/login_password" />

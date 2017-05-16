@@ -1,19 +1,21 @@
 <table>
-  <th>
+  
      <tr>
+	  <th>
 	   任务名
-	 </tr>
-	 <tr>
+	   </th>
+	  <th>
 	   可运行时间
+	   </th>
 	 </tr>
   <th>
   
-    <th>
-     <tr>
+    <tr>
+      <th>
 	   左右可展示图标edittext
-	 </tr>
-	 <tr>
+	 </th>
+	 <th>
 	   2017.5.16
-	 </tr>
-  <th>
+	 </th>
+  <tr>
 </table>

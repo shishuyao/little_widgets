@@ -7,6 +7,6 @@
     <tr>
          <th>左右可展示图标edittext</th>
 	 <th> 2017.5.16</th>
-	 <th>![img](https://github.com/shishuyao/little_widgets/cusEdittexttext/sp170516_210629.png)    </th>
+	 <th>![img](https://github.com/shishuyao/little_widgets/blob/master/cusEdittexttext/sp170516_210629.png)</th>
     <tr>
 </table>

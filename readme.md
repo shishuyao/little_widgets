@@ -1,3 +1,4 @@
+_由layout,attrs和class组成_
 <table>
      <tr>
 	  <th>任务名</th>
@@ -10,4 +11,3 @@
 	 <th>![img](https://github.com/shishuyao/little_widgets/blob/master/cusEdittexttext/sp170516_210629.png)</th>
     <tr>
 </table>
-![img test](https://github.com/shishuyao/little_widgets/blob/master/cusEdittexttext/sp170516_210629.png)
